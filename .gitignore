@@ -92,3 +92,8 @@ release/gi-httpservice
 
 **/unprocessed-code.ts.txt
 pnpm-lock.yaml
+
+# Python virtual environments and bytecode
+venv/
+.venv/
+__pycache__/
